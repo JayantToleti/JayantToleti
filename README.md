@@ -5,12 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanttoleti&label=Profile%20views&color=0e75b6&style=flat" alt="jayanttoleti" /> </p>
 
+### Most Recent Projects 
+- [Crack Detection and Segmentation](https://github.com/JayantToleti/CrackSegmentationDL)
 
-- 1) [Crack Detection and Segmentation](https://github.com/JayantToleti/CrackSegmentationDL)
+- [Drug Cardiotoxicity Analysis](https://github.com/JayantToleti/DrugCardiotoxicity)
 
-- 2) [Drug Cardiotoxicity Analysis](https://github.com/JayantToleti/DrugCardiotoxicity)
-
-- 3) [Grammar Error Correction](https://github.com/JayantToleti/GrammarErrorCorrection)
+- [Grammar Error Correction](https://github.com/JayantToleti/GrammarErrorCorrection)
 
 - 📫 How to reach me **jtoleti@gmail.com**
 
