@@ -1,15 +1,24 @@
 <h1 align="center">Hi 👋, I'm Jayant Toleti</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineering Student</h3>
 
+- 🌱 I’m currently learning **Deep Learning, NLP**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanttoleti&label=Profile%20views&color=0e75b6&style=flat" alt="jayanttoleti" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, NLP**
+
+- 1) [Crack Detection and Segmentation](https://github.com/JayantToleti/CrackSegmentationDL)
+
+- 2) [Drug Cardiotoxicity Analysis](https://github.com/JayantToleti/DrugCardiotoxicity)
+
+- 3) [Grammar Error Correction](https://github.com/JayantToleti/GrammarErrorCorrection)
 
 - 📫 How to reach me **jtoleti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayanttoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayanttoleti" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jtoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jtoleti" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jtoleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jtoleti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayanttoleti&show_icons=true&locale=en" alt="jayanttoleti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayanttoleti&" alt="jayanttoleti" /></p>
-
-[![roadmap.sh](https://roadmap.sh/card/wide/64bf7598263b0aea1d9b5da8?variant=dark)](https://roadmap.sh)
